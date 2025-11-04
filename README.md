@@ -1,4 +1,4 @@
-# pypi
+# whl
 Spark and Thor wheels
 
 ```bash
